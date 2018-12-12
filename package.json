@@ -2,6 +2,7 @@
   "name": "pupster",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://knazim667.github.io/pupster/about",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
