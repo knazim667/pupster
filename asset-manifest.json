@@ -1,13 +1,13 @@
 {
-  "main.css": "/pupster/static/css/main.8d59c3d2.chunk.css",
-  "main.js": "/pupster/static/js/main.7356594d.chunk.js",
-  "main.js.map": "/pupster/static/js/main.7356594d.chunk.js.map",
-  "static/js/1.2d8b19df.chunk.js": "/pupster/static/js/1.2d8b19df.chunk.js",
-  "static/js/1.2d8b19df.chunk.js.map": "/pupster/static/js/1.2d8b19df.chunk.js.map",
-  "runtime~main.js": "/pupster/static/js/runtime~main.5e0ceb9c.js",
-  "runtime~main.js.map": "/pupster/static/js/runtime~main.5e0ceb9c.js.map",
-  "static/css/main.8d59c3d2.chunk.css.map": "/pupster/static/css/main.8d59c3d2.chunk.css.map",
-  "index.html": "/pupster/index.html",
-  "precache-manifest.1ebafee9b5ac7547d5c51fb3f94183a0.js": "/pupster/precache-manifest.1ebafee9b5ac7547d5c51fb3f94183a0.js",
-  "service-worker.js": "/pupster/service-worker.js"
+  "main.css": "/static/css/main.8d59c3d2.chunk.css",
+  "main.js": "/static/js/main.7356594d.chunk.js",
+  "main.js.map": "/static/js/main.7356594d.chunk.js.map",
+  "static/js/1.2d8b19df.chunk.js": "/static/js/1.2d8b19df.chunk.js",
+  "static/js/1.2d8b19df.chunk.js.map": "/static/js/1.2d8b19df.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.8d59c3d2.chunk.css.map": "/static/css/main.8d59c3d2.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.61b8143e65f0bf4bccc8b95a9c49ba3d.js": "/precache-manifest.61b8143e65f0bf4bccc8b95a9c49ba3d.js",
+  "service-worker.js": "/service-worker.js"
 }
