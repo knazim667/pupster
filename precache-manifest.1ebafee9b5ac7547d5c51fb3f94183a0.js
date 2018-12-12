@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/pupster/static/js/runtime~main.5e0ceb9c.js"
   },
   {
-    "revision": "3e43fc7e05b36be548859a4493473d6a",
+    "revision": "54b6bce37b53efe48f671c98f9fd851b",
     "url": "/pupster/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pupster/precache-manifest.94ac8e86c66517accee88bf3b71286da.js"
+  "/pupster/precache-manifest.1ebafee9b5ac7547d5c51fb3f94183a0.js"
 );
 
 workbox.clientsClaim();
